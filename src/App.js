@@ -118,8 +118,6 @@ const TABS = [
   {icon:"📊",label:"Health"},
   {icon:"📅",label:"Appts"},
   {icon:"📖",label:"Journal"},
-  {icon:"📊",label:"Market"},
-  {icon:"💰",label:"Earn"},
 ];
 
 // ─── MAIN APP ──────────────────────────────────────────────────────────────
