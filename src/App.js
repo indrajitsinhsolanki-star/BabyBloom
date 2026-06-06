@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from "react";
+import { useState, useRef } from "react";
 
 // ─── DATA ──────────────────────────────────────────────────────────────────
 const WEEKS_DATA = {
